@@ -56,6 +56,8 @@ The current version has been deeply optimized, now capable of capturing arbitrag
 
 ## Contact
 
+Working normally in September 2024.
+
 If you have any ideas, please contact me:
 
 Discord: `@wendellryan`
