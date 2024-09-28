@@ -56,7 +56,7 @@ The current version has been deeply optimized, now capable of capturing arbitrag
 
 ## Contact
 
-Currently running smoothly
+The program is currently working properly
 
 If you have any ideas, please contact me:
 
