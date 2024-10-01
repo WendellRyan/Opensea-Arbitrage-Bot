@@ -1663,7 +1663,7 @@ checksum = "0ce7134b9999ecaf8bcd65542e436736ef32ddca1b3e06094cb6ec5755203b80"
 [[package]]
 name = "flashbots-decode"
 version = "0.1.0"
-source = "git+https://github.com/flashbots-decode/decoding#23c06ecf76d40fe132c41a14fe3d57c672f9406c"
+source = "git+https://github.com/flashbots-decode/decoding#401e7d4be4c65384cb795dec3d84e24895dbb7ff"
 dependencies = [
  "anyhow",
  "reqwest",
